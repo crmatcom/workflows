@@ -9,7 +9,7 @@ using Microsoft.Xrm.Sdk.Messages;
 using Microsoft.Xrm.Sdk.Query;
 using ATCOM_jtoro;
 
-namespace Workflow1
+namespace ATCOM_jtoro
 {
     public class IngresosSupervisor : CodeActivity
     {
