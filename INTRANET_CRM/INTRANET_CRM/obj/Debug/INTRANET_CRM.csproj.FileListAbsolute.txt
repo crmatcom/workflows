@@ -1,0 +1,8 @@
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Debug\INTRANET_CRM.csprojResolveAssemblyReference.cache
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Debug\INTRANET_CRM.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Debug\INTRANET_CRM.pdb
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Debug\INTRANET_CRM.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Debug\INTRANET_CRM.pdb

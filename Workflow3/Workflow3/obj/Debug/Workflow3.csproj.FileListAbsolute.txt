@@ -1,0 +1,16 @@
+c:\users\jtoro\documents\visual studio 2012\Projects\Workflow3\Workflow3\obj\Debug\Workflow3.csprojResolveAssemblyReference.cache
+c:\users\jtoro\documents\visual studio 2012\Projects\Workflow3\Workflow3\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\jtoro\documents\visual studio 2012\Projects\Workflow3\Workflow3\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\jtoro\documents\visual studio 2012\Projects\Workflow3\Workflow3\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\Workflow3\Workflow3\bin\Debug\ATCOM_jtoro.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\Workflow3\Workflow3\bin\Debug\ATCOM_jtoro.pdb
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\Workflow3\Workflow3\obj\Debug\ATCOM_jtoro.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\Workflow3\Workflow3\obj\Debug\ATCOM_jtoro.pdb
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\obj\Debug\Workflow3.csprojResolveAssemblyReference.cache
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\obj\Debug\ATCOM_jtoro.dll
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\obj\Debug\ATCOM_jtoro.pdb
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\bin\Debug\ATCOM_jtoro.dll
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\bin\Debug\ATCOM_jtoro.pdb
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dgajardo\Desktop\Workflow3\Workflow3\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll

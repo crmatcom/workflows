@@ -1,0 +1,16 @@
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Release\INTRANET_CRM.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Release\INTRANET_CRM.pdb
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.dll
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.pdb
+C:\Users\jtoro\Documents\Visual Studio 2012\Projects\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.csprojResolveAssemblyReference.cache
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.dll
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.pdb
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\bin\Release\INTRANET_CRM.dll
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\bin\Release\INTRANET_CRM.pdb
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\dgajardo\Desktop\INTRANET_CRM\INTRANET_CRM\obj\Release\INTRANET_CRM.csprojResolveAssemblyReference.cache
