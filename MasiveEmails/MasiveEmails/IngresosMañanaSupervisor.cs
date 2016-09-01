@@ -19,7 +19,7 @@ namespace MasiveEmails
 
         [Output("Respuesta")]
         [ReferenceTarget("new_juego")]
-        public OutArgument<string> outArg { get; set }
+        public OutArgument<string> outArg { get; set; }
 
         protected override void Execute(CodeActivityContext executionContext)
         {
@@ -30,16 +30,24 @@ namespace MasiveEmails
             EntityReference userRef = user.Get(executionContext);
             EntityCollection res = Utils.getTomorrowsResources(service, userRef);
             String ans = "";
-
+            String account = "";
 
             foreach (var r in res.Entities)
             {
                 Entity c = service.Retrieve("new_colaborador", ((EntityReference)r["new_colaborador"]).Id, new ColumnSet(true));
-                ans += "En cuenta: " + c["new_cuenta"] + " " + c["new_name"];
-                
-
+                if (account != c["new_cuenta"]+"" )
+                {
+                    account = c["new_cuenta"] + "";
+                    ans += "En cuenta: " + account + " \n";
+                }
+               
+                ans += c["new_apellidopaterno"] + " " + c["new_apellidomaterno"] + " " + c["new_name"] + "\n";
             }
 
+            if (ans != "")
+                outArg.Set(executionContext, ans);
+            else
+                outArg.Set(executionContext, null);
         }
 
     }
