@@ -20,7 +20,7 @@ namespace MasiveEmails
                 NoLock = true,
                 ColumnSet = new ColumnSet(true)
             };
-            query.LinkEntities.Add(new LinkEntity("new_colaboradorenoportunidad", "sucursal", "new_sucursal", "new_sucursalId", JoinOperator.Inner));
+            query.LinkEntities.Add(new LinkEntity("new_colaboradorenoportunidad", "new_sucursal", "new_sucursal", "new_sucursalId", JoinOperator.Inner));
             query.LinkEntities[0].EntityAlias = "SUCURSAL";
             query.Criteria.AddFilter(new FilterExpression
             {
