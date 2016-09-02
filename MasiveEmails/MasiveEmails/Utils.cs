@@ -28,7 +28,7 @@ namespace MasiveEmails
                 {
                     new ConditionExpression("new_fechaingreso", ConditionOperator.Tomorrow),
                     new ConditionExpression("new_ingreso", ConditionOperator.Equal, 100000002),
-                    new ConditionExpression("SUCURSAL", "new_supervisorId", ConditionOperator.Equal, userRef.Id)
+                    new ConditionExpression("SUCURSAL", "new_SupervisorId", ConditionOperator.Equal, userRef.Id)
                 }
             });
 
