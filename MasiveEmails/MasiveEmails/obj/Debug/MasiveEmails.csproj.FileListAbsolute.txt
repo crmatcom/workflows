@@ -6,4 +6,3 @@ C:\Users\ccsori\Documents\VS\MasiveEmails\MasiveEmails\bin\Debug\Microsoft.Xrm.S
 C:\Users\ccsori\Documents\VS\MasiveEmails\MasiveEmails\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
 C:\Users\ccsori\Documents\VS\MasiveEmails\MasiveEmails\obj\Debug\MasiveEmails.dll
 C:\Users\ccsori\Documents\VS\MasiveEmails\MasiveEmails\obj\Debug\MasiveEmails.pdb
-C:\Users\ccsori\Documents\VS\MasiveEmails\MasiveEmails\obj\Debug\MasiveEmails.csprojResolveAssemblyReference.cache
