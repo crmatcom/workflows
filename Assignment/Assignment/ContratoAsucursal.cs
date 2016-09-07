@@ -17,6 +17,9 @@ namespace Assignment
         [ReferenceTarget("systemuser")]
         public InArgument<EntityReference> user { get; set; }
 
+       // No necesito el supervisor, debo buscar en las ultimas fichas creadas, y buscar la oportunidad asociada para asociar la
+        // sucursarl necesaria y poder retirar los documentos de verdad.
+
         
     }
 }
